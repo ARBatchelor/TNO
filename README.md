@@ -11,7 +11,7 @@ Clone the repository
 To run the application, execute `main.py`
 
 ## GUI Usage
-Upon launching `main.py`, a GUI window will appear.
+Upon running `main.py`, a GUI window will appear.
 Select the CSV files containing position data (`position.csv`), and tag data for Tag A (`TagA.csv`) and Tag B (`TagB.csv`).
 Click on "Run analysis" to initiate data analysis or "Run animation" to run the animation.
 The application will process the data, perform analysis, and output some information in the terminal below.
