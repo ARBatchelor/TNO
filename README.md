@@ -5,7 +5,8 @@ This repository contains a Python application designed to analyze and visualize 
 Developed in Python v3.10
 
 ## Installation
-Make sure PySimpleGUI is installed, more information can be found [here](https://pysimplegui.com/).  
+Make sure PySimpleGUI is installed, more information can be found [here](https://pysimplegui.com/).
+'Free trail' can be selected when running PySimpleGUI for the first time to start a free period of 30 days, for longer use a registered account is required.  
 Clone the repository
 
 To run the application, execute `main.py`
